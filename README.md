@@ -9,4 +9,4 @@ Data-set is available at: https://ceb.nlm.nih.gov/proj/malaria/cell_images.zip
 For more info: contact: saransh.official.iitkgp@gmail.com / saransh.gupta@iitkgp.ac.in
 
 
-visit my website: https://saranshqm.github.io/saransh/ for more blogs
+visit my website: https://saranshqm.github.io/ for more blogs
